@@ -1,0 +1,37 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+body{
+    
+}
+.project{
+    background-color:beige;
+    background-size: cover;
+    height:100vh;
+}
+.bg-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color:black;
+    color:white;
+    border-style:solid;
+    border-color:white;
+    height:470px;
+    width:400px;
+    padding:20px;
+    border-radius:30px;
+}
+
+h1{
+    font-size:bold;
+    text-align:center;
+    font-family:roboto;
+    text-decoration: underline;
+}
